@@ -8,8 +8,4 @@ This repository contains solutions to various NumPy exercises covering:
 - Boolean Indexing and Filtering
 - Special Functions and Operat
 
-  Setup
-1. Clone the repository
-2. Install requirements:
-   ```bash
-   pip install -r requirements.txt
+ 
